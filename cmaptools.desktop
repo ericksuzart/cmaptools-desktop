@@ -3,8 +3,8 @@ Type=Application
 Version=1.0
 Name=Cmap Tools
 Terminal=false
-Icon= /usr/share/applications/cmaptools/concept-map-cmaptools.png
+Icon= /usr/share/cmaptools/concept-map-cmaptools.png
 Categories=Graphics;
-Exec=/usr/share/applications/cmaptools/CmapTools
+Exec= /usr/share/cmaptools/CmapTools.lnk
 MimeType=
 
