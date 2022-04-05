@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Cmap Tools
+Terminal=false
+Icon=${HOME}/IHMC\ CmapTools/concept-map-cmaptools.png
+Categories=Graphics;
+Exec=${HOME}/IHMC\ CmapTools/CmapTools
+MimeType=
+
