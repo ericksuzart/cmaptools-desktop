@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# sudo cp cmaptools.desktop ~/.local/share/applications/
-# sudo chmod +x ~/.local/share/applications/cmaptools.desktop
 sudo cp cmaptools.desktop /usr/share/applications/
 sudo chmod +x /usr/share/applications/cmaptools.desktop
 
