@@ -10,4 +10,4 @@ Download this as zip, extract, open the folder on terminal and run:
 chmod +x CmapTools.sh && ./CmapTools.sh
 ```
 
-Then, should appear the application icon on ubuntu launcher.
+Then the application icon should appear on ubuntu launcher.
